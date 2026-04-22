@@ -1,0 +1,29 @@
+# node
+node_modules/
+
+# logs
+*.log
+
+# env
+.env
+
+# mac
+.DS_Store
+
+# build / cache
+dist/
+build/
+.cache/
+
+# large files
+*.zip
+*.tar
+*.gz
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# misc
+tmp/
+uploads/
